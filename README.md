@@ -27,5 +27,4 @@ The neural network successfully learned the XOR logic gate, with the decision bo
 
 ## Contact Information
 - **Name:** Deep Malviya
-- **Phone Number:** +91 8983177881
 - **Email:** deepmalviya.aie@gmail.com
