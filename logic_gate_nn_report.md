@@ -44,5 +44,4 @@ The interactive visualisation can be demonstrated using the provided Jupyter Not
 
 ## Contact Information
 - **Name:** Deep Malviya
-- **Phone Number:** +91 8983177881
 - **Email:** deepmalviya.aie@gmail.com
